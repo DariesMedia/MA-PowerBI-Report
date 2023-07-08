@@ -1,4 +1,4 @@
-# Medium-Articles-Performance-Analysis
+## Medium-Articles-Performance-Analysis
 
 Cleaning and analysing Medium.com Articles data as well as report design in PowerBI
 
@@ -24,4 +24,5 @@ After cleaning and analysing the data, attached below is the report.
 ![PowerBI Report](https://raw.githubusercontent.com/DariesMedia/Medium-Articles-Performance-Report-/main/MA_PowerBI_Report.jpg)
 
 ## Conclusion
-This was a fun project to work on. You can explore the interactive version of the report to see the full functionality and User Experience through the .pbix version of the report provided. 
+This was a fun project to work on. You can explore the interactive version of the report to see the full functionality and User Experience through the link provided below.
+[PowerBI Report](https://app.powerbi.com/view?r=eyJrIjoiNjNjNWI4NjAtNzIwMi00ZjE4LWJkZWItMzk2YzY1OTcxNzBmIiwidCI6IjQzZjFiNDVlLTIwODgtNGE4NS05MTE3LWM1ODhiODdiNDQwYSJ9)
