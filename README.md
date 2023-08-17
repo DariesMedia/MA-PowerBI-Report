@@ -1,6 +1,6 @@
 ## Medium-Articles-Performance-Analysis
 
-Cleaning and analysing Medium.com Articles as well as creating PowerBI report.
+Cleaning and analysing Medium.com Articles as well as creating a PowerBI report.
 
 ## Introduction
 
